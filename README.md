@@ -7,3 +7,4 @@ A Java project containing examples for connecting to a database, running stored 
 3) Java IDE (ex. IntelliJ IDEA Community or Eclipse)
 
 ## Getting Started
+<https://dev.mysql.com/doc/index-other.html>
