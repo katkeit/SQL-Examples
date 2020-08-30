@@ -46,7 +46,7 @@ A Java project containing examples for connecting to a database, running stored 
 6) Click Clone at the bottom.
 
 ### ■ Configuring IntelliJ IDEA Community
-#### ▶ Selecting Project SDK
+#### ➤ Selecting Project SDK
 1) With the project open, go to File, and click 'Project Structure...'.
 
 2) In the Project Structure window, and click the Project tab inside the Project Settings section on the left.
