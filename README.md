@@ -11,7 +11,7 @@ A Maven project containing examples for connecting to a database, running stored
 1) Download and install <a href = "https://www.oracle.com/java/technologies/javase-jdk14-downloads.html">JDK 14</a>.
 
 ### ▣ MySQL Community Server 8
- 1) Download <a href = "https://dev.mysql.com/downloads/">MySQL Community Server 8</a>/
+ 1) Download <a href = "https://dev.mysql.com/downloads/">MySQL Community Server 8</a>
  <br><b>NOTE:</b> For Windows, click on 'MySQL Installer for Windows', otherwise, click on 'MySQL Community Server'.
  
  2) Install MySQL Community. Please follow this <a href = "https://dev.mysql.com/doc/mysql-getting-started/en/#mysql-getting-started-installing">installation guide</a> for help.
