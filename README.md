@@ -7,18 +7,18 @@ A Java project containing examples for connecting to a database, running stored 
 - Java IDE (ex. Eclipse or IntelliJ IDEA Community)
 
 ## ❈ Download and Install
-### ∎ Java Development Kit 14
+### ▣ Java Development Kit 14
 1) Download and install <a href = "https://www.oracle.com/java/technologies/javase-jdk14-downloads.html">JDK 14</a>.
 
 
-### ∎ MySQL Community Server 8
+### ▣ MySQL Community Server 8
  1) Download <a href = "https://dev.mysql.com/downloads/">MySQL Community Server 8</a>/
  <br><b>NOTE:</b> For Windows, click on 'MySQL Installer for Windows', otherwise, click on 'MySQL Community Server'.
  
  2) Install MySQL Community. Please follow this <a href = "https://dev.mysql.com/doc/mysql-getting-started/en/#mysql-getting-started-installing">installation guide</a> for help.
  
  ## ❈ Setting up and Configuring
- ### ∎ Importing to Eclipse
+ ### ▣ Importing to Eclipse
 1) Open Eclipse IDE.
 2) Click File in the toolbar at the top.
 3) Click Import...
@@ -33,7 +33,7 @@ A Java project containing examples for connecting to a database, running stored 
 10) Ensure the directory path is where you want the project to store. Click Next.
 11) Click Finish.
 
-### ∎ Importing to IntelliJ IDEA Community
+### ▣ Importing to IntelliJ IDEA Community
 1) Open IntelliJ IDEA Community.
 <br><b>NOTE:</b> If any existing projects are open, click File in the toolbar at the top, and click Close Project.
 
@@ -45,7 +45,7 @@ A Java project containing examples for connecting to a database, running stored 
 5) Confirm where you want the files to clone to in the Directory box.
 6) Click Clone at the bottom.
 
-### ■ Configuring IntelliJ IDEA Community
+### ▣ Configuring IntelliJ IDEA Community
 #### ➤ Selecting Project SDK
 1) With the project open, go to File, and click 'Project Structure...'.
 
@@ -55,7 +55,7 @@ A Java project containing examples for connecting to a database, running stored 
 
 4) Click the OK button at the bottom of the window.
 
-### ∎ Configuring MySQL Community Server 8
+### ▣ Configuring MySQL Community Server 8
 1) Open MySQL Workbench 8
 <br><b>NOTE:</b> For users using command line, please follow this <a href = "https://phoenixnap.com/kb/how-to-backup-restore-a-mysql-database">guide</a> to restore the database.
 
