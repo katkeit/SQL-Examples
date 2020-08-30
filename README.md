@@ -1,5 +1,5 @@
 # SQL-Examples
-A Java project containing examples for connecting to a database, running stored procedures, triggers, and etc.
+A Maven project containing examples for connecting to a database, running stored procedures, triggers, and etc. This project uses the MySQL example database "sakila", please review the Files section below to obtain the database. 
 
 ## ❈ Requirements
 - Java Development Kit 14
@@ -9,7 +9,6 @@ A Java project containing examples for connecting to a database, running stored 
 ## ❈ Download and Install
 ### ▣ Java Development Kit 14
 1) Download and install <a href = "https://www.oracle.com/java/technologies/javase-jdk14-downloads.html">JDK 14</a>.
-
 
 ### ▣ MySQL Community Server 8
  1) Download <a href = "https://dev.mysql.com/downloads/">MySQL Community Server 8</a>/
@@ -64,12 +63,16 @@ A Java project containing examples for connecting to a database, running stored 
 
 3) In the Navigator window, click the Administrator tab at the bottom of the window, and click 'Data Import/Restore'.
 
-4) In the 'Import Options' section, select 'Import from Self-Contained File', and browse for the 'sunonline_v1006.sql' file.
-<br><b>NOTE:</b> You need to download the sunonline_v1006.sql file from the Download section below.
+4) In the 'Import Options' section, select 'Import from Self-Contained File', and browse for the 'sakila-schema.sql' file.
+<br><b>NOTE:</b> You need to download the 'sakila database' zip file from the link in the File section below.
 
-5) In the 'Default Schema to be Imported To' section, click 'New...' button, and type in 'sunonline_v1006', and click 'OK'.
-
-6) At the bottom, click 'Start Import' button.
+5) At the bottom, click 'Start Import' button.
 <br><b>NOTE:</b> Once the import is complete, then you can close the tab.
 
-7) In the Navigator menu, click the Schemas tab at the bottom, click the refresh button near the top, and 'sunonline_v1006' database should appear.
+6) Repeat Step 4 and 5, but browse for the 'sakila-data.sql' file instead.
+
+7) In the Navigator menu, click the Schemas tab at the bottom, click the refresh button near the top, and 'sakila' database should appear.
+
+## ❈ Files
+> 1) MySQL Example Database - <a href = "https://dev.mysql.com/doc/index-other.html">Sakila</a>
+> <br><b>NOTE</b>: Follow the "Configuring MySQL Community Server 8" guide inside the "Setting up and Configuring" section above.
